@@ -1,4 +1,7 @@
 target/
+
 .idea
+.DS_Store
+
 *.log
 *.jar
